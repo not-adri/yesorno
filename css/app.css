@@ -1,11 +1,11 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #F28500;
+    background-color: #d91b1e;
 }
 
 body.yes {
-    background-color: #BF5700;
+    background-color: #c39bce;
     background-image: url('../images/cutecat.webp');
     background-size: auto;
 }
@@ -65,8 +65,8 @@ body.yes .dialog {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #aa6328;
-    box-shadow: 3px 3px 3px #502b0e;
+    background-color: #c39bce;
+    box-shadow: 3px 3px 3px #8b4a8a;
     border-radius: 5px;
 }
 
@@ -97,12 +97,12 @@ body.yes .dialog {
 }
 
 .confirm__actions .btn-yes {
-    background-color: #aa6328;
+    background-color: #c39bce;
 }
 
 .confirm__actions .btn-no {
     position: relative;
-    background-color: #aa6328;
+    background-color: #c39bce;
 }
 
 .dialog {
@@ -112,7 +112,7 @@ body.yes .dialog {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #d47c11;
+    background-color: #c39bce;
     box-shadow: 3px 3px 3px rgb(160, 69, 116);
     border-radius: 5px;
     font-size: 22px;
